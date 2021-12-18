@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eniseratabay
 - 👀 I’m interested in Data Science in Tourism
 - 🌱 I’m currently learning R and Python
-- 📫 You can reach me by eniser@gmail.com
+- 📫 You can reach me by eniser@gmail.com and also visit eniser.info
 
 <!---
 eniseratabay/eniseratabay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
